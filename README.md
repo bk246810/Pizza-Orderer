@@ -6,3 +6,9 @@ This app is a simulator for a pizza ordering app where users can select differen
 and delete pizzas, calculate their total, and print a receipt of thier order.
 
 <img width="514" alt="LittleCaesars" src="https://github.com/bk246810/Pizza-Orderer/assets/68962454/a9aa6755-7875-4a4a-931c-fd0ec7870691">
+**Demo**
+
+
+https://github.com/bk246810/Pizza-Orderer/assets/68962454/362da65d-2943-4b39-9588-dd015808b925
+
+
