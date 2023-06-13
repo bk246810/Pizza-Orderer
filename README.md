@@ -12,3 +12,7 @@ and delete pizzas, calculate their total, and print a receipt of thier order.
 https://github.com/bk246810/Pizza-Orderer/assets/68962454/362da65d-2943-4b39-9588-dd015808b925
 
 
+https://github.com/bk246810/Pizza-Orderer/assets/68962454/8d102477-d6ab-43c6-aff1-d3e6e6aaafe9
+
+
+
